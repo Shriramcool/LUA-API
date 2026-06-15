@@ -1,4 +1,4 @@
--- ServerGameMain: editor-only GameMain for first-wave sandbox users.
+
 -- Provides readable examples for VP events and AddEnvControlEvent usage.
 ---@class ServerGameMain:WoWGameMain
 local ServerGameMain = {}
